@@ -31,7 +31,7 @@ body {
   height: 100vh;
   gap: 1rem;
   border: 1px solid black;
-  background: url(/imgaes/lay4.jpeg);
+  background: url("imgaes/lay4.jpeg");
 }
 .box-container {
   height: 100vh;
@@ -41,7 +41,7 @@ body {
   height: calc(100% / 3);
   border: 2px solid black;
   padding: 10px;
-  background: url(/imgaes/lay6.webp);
+  background: url("imgaes/lay6.webp");
   background-size: cover;
 }
 .box4 {
@@ -54,7 +54,7 @@ body {
 .box5 {
   height: calc(100% / 3);
 
-  background-image: url("imgaes/lay9.jpeg");
+  background: url("imgaes/lay9.jpeg");
   background-size: cover;
 }
 
@@ -73,7 +73,7 @@ body {
   background-size: cover;
 }
 .row2 {
-  background: url("/imgaes/lay4.webp");
+  background: url("imgaes/lay4.webp");
   border: 1px solid black;
   margin-top: 20px;
   height: 50%;
@@ -81,11 +81,11 @@ body {
 }
 
 .boxa {
-  background: url("~/imgaes/lay8.jpeg");
+  background: url("imgaes/lay8.jpeg");
   background-size: cover;
 }
 
 .boxb {
-  background: url(~/imgaes/lay7.webp);
+  background: url("imgaes/lay7.webp");
   background-size: cover;
 }
