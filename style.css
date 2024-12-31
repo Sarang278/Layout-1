@@ -73,7 +73,7 @@ body {
   background-size: cover;
 }
 .row2 {
-  background: url(/imgaes/lay4.webp);
+  background: url("/imgaes/lay4.webp");
   border: 1px solid black;
   margin-top: 20px;
   height: 50%;
